@@ -1,12 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Hand Gesture Detection Machine Learning Project"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-06-01
 published: true
 labels:
-  - Engineering
+  - Python
+  - LaTeX
+  - Computer Vision
+essayurl: https://uweacuk-my.sharepoint.com/:b:/g/personal/joseph2_cauvy-foster_live_uwe_ac_uk/EX_OUkkgEGxEg_3KqX9ewhIBPqdTOwocUl08CE2-RWjFjw?e=5bfaKv
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
