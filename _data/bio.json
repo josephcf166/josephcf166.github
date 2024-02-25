@@ -14,30 +14,37 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Machine Learning" },
+    { "name": "Mobile Development" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Python", "Git", "Swift", "Jupyter", "Docker", "HTML", "CSS", "LaTeX", "Agile Practices", "Kotlin", "Django"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of the West of England",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "09-2021",
       "endDate": "Present",
       "courses": [
+      ]
+    }
+    {
+      "institution": "Matthew Arnold School",
+      "area": "",
+      "studyType": "A-levels",
+      "startDate": "09-2019",
+      "endDate": "07-2021",
+      "courses": [
+        "Mathematics -A",
+        "Chemistry - A",
+        "Physics - C"
       ]
     }
   ],
