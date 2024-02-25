@@ -1,14 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "ParkourSpotter Literature Review"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2024-02-01
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - LaTeX
+  - Critical Thinking
+  - Critical Writing
+  - Research
+essayurl: https://uweacuk-my.sharepoint.com/:b:/g/personal/joseph2_cauvy-foster_live_uwe_ac_uk/ESFdMCxhESdJjXgsVfHJf2YB_ChJvaZVuW-Z6i7HxorihQ?e=YOd8St
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
