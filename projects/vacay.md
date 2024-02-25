@@ -11,6 +11,7 @@ labels:
   - MongoDB
   - GitHub
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
+projecturl: https://github.com/josephcf166/2D-to-3D
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
