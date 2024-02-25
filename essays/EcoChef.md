@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "EcoChef - Mobile Applications Report"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-11-01
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Kotlin
+  - LaTeX
+  - Git
 essayurl: https://uweacuk-my.sharepoint.com/:b:/g/personal/joseph2_cauvy-foster_live_uwe_ac_uk/EVTr5blQKmFMpQevmRuWwNcBo6G_vgeK__Bs-p_l2BQ89A?e=9yZJbm
 ---
 
