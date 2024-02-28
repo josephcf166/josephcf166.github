@@ -6,19 +6,13 @@
     "email": "josephcf166@gmail.com",
     "phone": "07938560707",
     "website": "https://josephcf166.github.io",
-    "summary": "I am pursuing a Computer Science Degree at the University of the West of England (UWE), with a keen interest in Machine Learning, Mobile Development, and Data Analytics & Visualisation. This passion came from my love for video games and problem-solving. <br><br>I am looking forward to apply the hard and soft skills I have learnt during my BSc to a professional environment.<br><br>Throughout my academic journey, I honed my skills in Data Visualisation, Python, Machine Learning, Git, Swift, Jupyter, HTML, CSS, LaTeX, Docker, Agile practices, and Kotlin. Additionally, I developed strong competencies in listening, receiving feedback, problem-solving, critical thinking, teamwork, written & verbal communication, resourcefulness, creativity, time management, and the ability to learn quickly & pick up new skills.",
+    "summary": "I am pursuing a BSc in Computer Science at the University of the West of England (UWE), with a keen interest in Machine Learning, Mobile Development, Robotics, Computer Vision, and Data Analytics & Visualisation.<br><br>I am looking forward to apply the hard and soft skills I have learnt during my BSc to a professional environment.<br><br>Throughout my academic journey, I honed my skills in Data Visualisation, Python, Machine Learning, Git, Swift, Jupyter, HTML, CSS, LaTeX, Docker, Agile practices, and Kotlin. Additionally, I developed strong competencies in listening, receiving feedback, problem-solving, critical thinking, teamwork, written & verbal communication, resourcefulness, creativity, time management, and the ability to learn quickly & pick up new skills.",
     "location": { "address": "", "postalCode": "BS1 3FB", "city": "Bristol", "countryCode": "UK", "region": "" },
     "profiles": [
       { "network": "github", "username": "josephcf166", "url": "https://github.com/josephcf166?tab=repositories" },
       { "network": "linkedin", "username": "Joseph Cauvy-Foster", "url": "https://www.linkedin.com/in/joseph-cauvy-foster-01375a272/" }
     ]
   },
-  "interests": [
-    { "name": "Machine Learning" },
-    { "name": "Mobile Development" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
